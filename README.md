@@ -20,7 +20,7 @@ Collaborators: Abhishek Bhattacharya , Tarun Singh Negi
 
 SQL - https://tinyurl.com/SQL-UBDS
 
-Collaborators Eman Almaari,Reshu Singh
+Collaborators: Eman Almaari,Reshu Singh
 
 ML - https://tinyurl.com/Machine-Learning-UB
 
