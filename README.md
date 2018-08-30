@@ -3,6 +3,8 @@
 COLLABORATIVE NOTES Google Slides under  Udacity-Bertelsmann Data Science Challenge Scholarship-
 https://www.udacity.com/bertelsmann-data-scholarships
 
+//The google site : https://sites.google.com/view/buds-powerpoint/home
+
 
 
 
