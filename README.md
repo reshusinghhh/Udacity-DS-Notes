@@ -1,33 +1,33 @@
 # Udacity-DS-Notes
 
-COLLABORATIVE NOTES Google Slides under  Udacity-Bertelsmann Data Science Challenge Scholarship-
+###### COLLABORATIVE NOTES Google Slides under  Udacity-Bertelsmann Data Science Challenge Scholarship-
 https://www.udacity.com/bertelsmann-data-scholarships
 
-// The google site : https://sites.google.com/view/buds-powerpoint/home
+_The google site : https://sites.google.com/view/buds-powerpoint/home_
 
 
 
 
 
-Data Science PPts links
+> Data Science PPts links
 
 
-STATISTICS - https://tinyurl.com/Statisctics-UB
+-**STATISTICS** - https://tinyurl.com/Statisctics-UB
 
 Collaborator: Purva Nahar (@PN10)
 
-PYTHON - https://tinyurl.com/Python-UBDS
+-**PYTHON** - https://tinyurl.com/Python-UBDS
 
 Collaborators: Abhishek Bhattacharya , Tarun Singh Negi
 
-SQL - https://tinyurl.com/SQL-UBDS
+-**SQL** - https://tinyurl.com/SQL-UBDS
 
 Collaborators: Eman Almaari,Reshu Singh
 
-ML - https://tinyurl.com/Machine-Learning-UB
+-**Machine Learning** - https://tinyurl.com/Machine-Learning-UB
 
 Collaborator: Georgia Martha Sari
 
-R - https://tinyurl.com/R-Programming-UB
+-**R** - https://tinyurl.com/R-Programming-UB
 
 Collaborator: Afton Leigh Coombs
