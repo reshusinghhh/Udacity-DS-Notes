@@ -34,8 +34,8 @@ Collaborator: Afton Leigh Coombs
 
 **_Statistics Notes_PDF_**
 
-**Lesson 1: Intro to Statistical Research Methods**
-_https://storage.googleapis.com/supplemental_media/udacityu/1293178557/Lesson1.pdf_
+1.**Lesson 1: Intro to Statistical Research Methods**
+  -_https://storage.googleapis.com/supplemental_media/udacityu/1293178557/Lesson1.pdf_
 **Lesson 2: Visualizing Data**
 _https://storage.googleapis.com/supplemental_media/udacityu/1480558581/Lesson2.pdf_
 **Lesson 3: Central Tendency**
