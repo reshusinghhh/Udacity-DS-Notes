@@ -33,17 +33,17 @@ Collaborator: Georgia Martha Sari
 Collaborator: Afton Leigh Coombs
 
 **_Statistics Notes_PDF_**
->**Lesson 1: Intro to Statistical Research Methods** _https://storage.googleapis.com/supplemental_media/udacityu/1293178557/Lesson1.pdf_
->**Lesson 2: Visualizing Data**
+**Lesson 1: Intro to Statistical Research Methods** _https://storage.googleapis.com/supplemental_media/udacityu/1293178557/Lesson1.pdf_
+**Lesson 2: Visualizing Data**
 _https://storage.googleapis.com/supplemental_media/udacityu/1480558581/Lesson2.pdf_
->**Lesson 3: Central Tendency**
+**Lesson 3: Central Tendency**
 _https://storage.googleapis.com/supplemental_media/udacityu/1489118552/Lesson3.pdf_
->**Lesson 4: Variability**
+**Lesson 4: Variability**
 _https://storage.googleapis.com/supplemental_media/udacityu/1471748603/Lesson4.pdf_
->**Lesson 5: Standardizing**
+**Lesson 5: Standardizing**
 _https://storage.googleapis.com/supplemental_media/udacityu/1493378536/Lesson5.pdf_
->**Lesson 6: Normal Distribution**
+**Lesson 6: Normal Distribution**
 _https://storage.googleapis.com/supplemental_media/udacityu/1478678538/Lesson6.pdf_
->**Lesson 7: Sampling Distributions**
+**Lesson 7: Sampling Distributions**
 _https://storage.googleapis.com/supplemental_media/udacityu/1455178654/lesson7.pdf_
 
