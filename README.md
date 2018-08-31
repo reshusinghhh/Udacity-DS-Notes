@@ -1,6 +1,6 @@
 # Udacity-DS-Notes
 
-###### COLLABORATIVE NOTES Google Slides under  Udacity-Bertelsmann Data Science Challenge Scholarship-
+###### COLLABORATIVE NOTES Google Slides under  Udacity-Bertelsmann Data Science Challenge Scholarship-2018
 https://www.udacity.com/bertelsmann-data-scholarships
 
 _The google site : https://sites.google.com/view/buds-powerpoint/home_
