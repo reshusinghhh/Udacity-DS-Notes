@@ -96,7 +96,7 @@ FROM orders
 LIMIT 10;
 
 ##LOGICAL OPERATORS
-Introduction to Logical Operators
+/*Introduction to Logical Operators
 
 In the next concepts, you will be learning about Logical Operators. Logical Operators include:
 
@@ -113,7 +113,7 @@ In the next concepts, you will be learning about Logical Operators. Logical Oper
     These allow you to combine operations where all combined conditions must be true.
 
     OR
-    This allow you to combine operations where at least one of the combined conditions must be true.
+    This allow you to combine operations where at least one of the combined conditions must be true.*/
 
  ##LIKE
  /*The LIKE operator is extremely useful for working with text.
