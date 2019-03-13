@@ -51,6 +51,4 @@ Collaborator: [Afton Leigh Coombs](https://github.com/aftoncoombs)
 
 [**Lesson 7: Sampling Distributions**](https://storage.googleapis.com/supplemental_media/udacityu/1455178654/lesson7.pdf)
 
-[**Creating a dataset using an api**]https://towardsdatascience.com/creating-a-dataset-using-an-api-with-python-dcc1607616d
-
-
+[**Creating a dataset using an api**](https://towardsdatascience.com/creating-a-dataset-using-an-api-with-python-dcc1607616d)
